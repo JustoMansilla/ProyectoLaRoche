@@ -95,19 +95,19 @@
         background: #f5f6fa !important;
         height: 50px !important;
         &:focus{
-            border: 1px solid #68AE4A !important;
+            border: 1px solid #ff7c04 !important;
         }
     }
     textarea{
         border: 1px solid #f5f6fa !important;
         background: #f5f6fa !important;
         &:focus{
-            border: 1px solid #68AE4A !important;
+            border: 1px solid #ff7c04 !important;
         }
     }
     input[type="submit"]{
-        border-color: #68AE4A !important;
-        background-color: #68AE4A !important;
+        border-color: #ff7c04 !important;
+        background-color: #ff7c04 !important;
         color: $white !important;
         border-radius: 0 !important;
     }
